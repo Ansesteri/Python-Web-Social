@@ -9,6 +9,10 @@ pillow = "*"
 requests = "*"
 django-crispy-forms = "*"
 crispy-bootstrap5 = "*"
+django-extensions = "*"
+werkzeug = "*"
+pyopenssl = "*"
+easy-thumbnails = "*"
 
 [dev-packages]
 
